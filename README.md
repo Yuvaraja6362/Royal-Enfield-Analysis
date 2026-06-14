@@ -1,6 +1,3 @@
-Perfect bro 🔥. For GitHub, the README should look professional and recruiter-friendly. You can directly copy this:
-
----
 
 # 🏍️ DRIVEN BY DATA: SALES ANALYTICS & REVENUE FORECASTING FOR ROYAL ENFIELD
 
@@ -224,6 +221,3 @@ Aspiring Data Analyst | Power BI Developer | Machine Learning Enthusiast
 
 Feel free to star ⭐ the repository and connect with me for collaboration and feedback.
 
----
-
-This README will look professional on GitHub and is strong enough to showcase in your portfolio, resume, and LinkedIn projects section. 🔥🏍️📊🚀
